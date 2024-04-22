@@ -1,4 +1,4 @@
-# vision_flutter
+# Real time Assistive Object Detection system for the visually impaired 
 
 A new Flutter project.
 
